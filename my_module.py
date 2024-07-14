@@ -4,6 +4,7 @@ my_module.py
 This module provides functions for XYZ functionality.
 """
 
+
 def my_function(param1, param2):
     """
     Performs a specific task.
